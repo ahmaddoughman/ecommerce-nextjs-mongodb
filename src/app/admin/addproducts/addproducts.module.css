@@ -1,0 +1,27 @@
+.eddl{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container{
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.cardd{
+    margin-bottom: 20px;
+}
+.h2{
+    text-align: center;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+.plus{
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    z-index: 100;
+}

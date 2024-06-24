@@ -1,0 +1,25 @@
+.container{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.right{
+    margin-top: 20px;
+    margin-right: 400px;
+}
+.price{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.cart{
+    text-decoration: none;
+    background: rgb(250, 212, 109);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+.title{
+    margin-bottom: 30px;
+}

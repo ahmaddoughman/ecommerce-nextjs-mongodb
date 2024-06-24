@@ -1,0 +1,28 @@
+.contain{
+    display: flex;
+}
+.container{
+    width: 320px;
+    height: 100vh;
+    background-color: darkgray;
+}
+.title{
+    text-align: center;
+    padding-top: 40px;
+}
+.ul{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-top: 100px;
+    gap: 20px;
+}
+.li{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 36px;
+}
